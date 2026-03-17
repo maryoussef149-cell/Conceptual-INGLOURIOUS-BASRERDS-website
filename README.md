@@ -22,4 +22,4 @@ CSS-in-JS with custom properties
 Google Fonts
 
 Context
-This project is part of Nexera — a personal design challenge where each day takes a film, game, or cultural reference and transforms it into a functional UI/UX concept with a complete design system, case study, and working prototype.
+This project is a personal design.
